@@ -228,37 +228,7 @@ Converts analytical findings into business actions and executive recommendations
 
 ---
 
-# 📁 Repository Structure
 
-```text
-SmartLend-Credit-Risk-Loan-Portfolio-Analytics
-│
-├── Dashboard
-│   └── SmartLend.pbix
-│
-├── SQL
-│   └── SmartLend_SQL_Queries.sql
-│
-├── Python
-│   └── SmartLend_Analysis.ipynb
-│
-├── Dataset
-│   └── SmartLend.csv
-│
-├── Images
-│   ├── executive_overview.png
-│   ├── customer_analytics.png
-│   ├── loan_portfolio_analytics.png
-│   ├── credit_risk_analytics.png
-│   ├── geographic_analytics.png
-│   ├── insights.png
-│   ├── database_schema_setup.png
-│   ├── data_validation.png
-│   ├── sql_business_queries.png
-│   └── eda_summary.png
-│
-└── README.md
-```
 
 ---
 
