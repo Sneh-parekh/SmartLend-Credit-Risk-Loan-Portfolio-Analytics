@@ -228,10 +228,6 @@ Converts analytical findings into business actions and executive recommendations
 
 ---
 
-
-
----
-
 # 🎓 Skills Demonstrated
 
 * SQL Query Writing
